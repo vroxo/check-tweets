@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:vroxo/api-nestjs.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:vroxo/frontend-nextjs.git
+[submodule "stream"]
+	path = stream
+	url = git@github.com:vroxo/stream-kafka.git
